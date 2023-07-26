@@ -4,6 +4,7 @@
 
 This repository contains a basic ERC20 token smart contract developed using Solidity. The purpose of this project is to provide a simple example for learning about Ethereum development, particularly in creating ERC20 tokens with functionalities for minting, burning, and transferring tokens. The smart contract is designed to be deployed on a local Hardhat network for local testing and can be interacted with using Remix IDE.
 
+
 ## Project Features
 
 - **Minting**: The contract owner can mint new tokens and add them to the specified address. This function allows the creation of new tokens.
